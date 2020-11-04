@@ -131,3 +131,14 @@ a{
         opacity: 1;
     }
 }
+
+footer{
+    width: calc(100vw - (100vw - 100%));
+    height: 22vmin;
+    background-color: rgb(54, 50, 104);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 2.02vmin;
+}
